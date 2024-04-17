@@ -1,0 +1,1 @@
+colorSpectrumSpeed = 1

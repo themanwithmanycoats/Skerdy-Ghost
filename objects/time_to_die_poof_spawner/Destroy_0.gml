@@ -1,0 +1,1 @@
+layer_set_visible("Effect_1", false);

@@ -1,0 +1,1 @@
+audio_play_sound(cliff,10,false,1,0,2)

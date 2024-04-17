@@ -1,0 +1,1 @@
+alarm[0] = irandom(240);
